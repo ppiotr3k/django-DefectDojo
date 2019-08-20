@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Dragon test",
+    "owner": "Piotr PAWLICKI",
+    "description": "AppSec orchestration and vulnerability management system.\nMajor components:\n- web application (Django)\n- database (PostgreSQL)"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Piotr PAWLICKI"
+  }
+}
